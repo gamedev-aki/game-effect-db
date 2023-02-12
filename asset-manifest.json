@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.b4f536b8.css",
-    "main.js": "/static/js/main.8aa37a30.js",
+    "main.js": "/static/js/main.2422866c.js",
     "static/js/787.fdbe14ba.chunk.js": "/static/js/787.fdbe14ba.chunk.js",
+    "static/media/artmaster-fire-skill_2.gif": "/static/media/artmaster-fire-skill_2.e869ae36fb3956245795.gif",
+    "static/media/artmaster-fire-skill_3.gif": "/static/media/artmaster-fire-skill_3.e15da71dff20fdbbaae3.gif",
+    "static/media/artmaster-fire-skill_1.gif": "/static/media/artmaster-fire-skill_1.df9f8de5b78953429e9f.gif",
     "index.html": "/index.html",
     "main.b4f536b8.css.map": "/static/css/main.b4f536b8.css.map",
-    "main.8aa37a30.js.map": "/static/js/main.8aa37a30.js.map",
+    "main.2422866c.js.map": "/static/js/main.2422866c.js.map",
     "787.fdbe14ba.chunk.js.map": "/static/js/787.fdbe14ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4f536b8.css",
-    "static/js/main.8aa37a30.js"
+    "static/js/main.2422866c.js"
   ]
 }
